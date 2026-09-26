@@ -17,8 +17,8 @@ I like backend
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizzycodes-dev&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lizzycodes-dev&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizzycodes-dev&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lizzycodes-dev&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
 
 ---
 
