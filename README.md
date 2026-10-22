@@ -1,9 +1,29 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,45:3a0ca3,100:b5179e&height=160&section=header&text=Hi%2C%20I'm%20Liz%20%F0%9F%91%8B&fontSize=48&fontColor=00f0ff&fontAlignY=40&desc=3rd%20Year%20IT%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=16&descColor=f5d0ff&descAlignY=62&animation=fadeIn" width="100%" alt="header" /><br/>
-<a href="https://github.com/lizzycodes-dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&height=30&lines=Turning+ideas+into+working+software;Full-stack+%7C+Web+%7C+Databases;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" /></a><br/>
-<img src="https://komarev.com/ghpvc/?username=lizzycodes-dev&label=Views&color=7209b7&style=for-the-badge" alt="views" /><a href="https://www.linkedin.com/in/liz-zaragosa-293b5b338"><img src="https://img.shields.io/badge/LinkedIn-3a0ca3?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn" /></a><a href="mailto:l.zaragosa.555459@umindanao.edu.ph"><img src="https://img.shields.io/badge/Email-b5179e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://github.com/lizzycodes-dev"><img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=00f0ff" alt="GitHub" /></a><br/>
-🎓 <b>3rd Year IT Student</b> · 💻 <b>Full-stack learner</b> · 🎨 <b>Design-minded developer</b> — <i>building things that are useful, clean, and a little bit beautiful.</i><br/>
-<img src="https://skillicons.dev/icons?i=cs,java,php,js,py,mysql,laravel,nodejs,react,tailwind,git,github,docker,postman,figma,vercel,apache&perline=17" alt="tech stack" /><br/>
-<img height="125" src="https://github-readme-stats.shion.dev/api?username=lizzycodes-dev&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d0221&border_color=7209b7&title_color=00f0ff&icon_color=ff2e97&text_color=d8c8ff" alt="GitHub stats" /><img height="125" src="https://streak-stats.demolab.com/?user=lizzycodes-dev&hide_border=false&background=0d0221&border=7209b7&ring=ff2e97&fire=00f0ff&currStreakNum=00f0ff&currStreakLabel=ff2e97&sideNums=d8c8ff&sideLabels=d8c8ff&dates=9d8ccc" alt="GitHub streak" /><img height="125" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lizzycodes-dev&hide_border=false&layout=compact&bg_color=0d0221&border_color=7209b7&title_color=00f0ff&text_color=d8c8ff" alt="Top languages" /><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,45:3a0ca3,100:b5179e&height=80&section=footer" width="100%" alt="footer" />
-</div>
+```bash
+liz@ubuntu:~$ whoami
+liz-zaragosa
+
+liz@ubuntu:~$ cat about.txt
+3rd Year IT Student | Full-stack learner | Design-minded developer
+Building things that are useful, clean, and a little bit beautiful.
+
+liz@ubuntu:~$ echo $STACK
+C# Java PHP JavaScript Python MySQL Laravel Node.js React TailwindCSS
+
+liz@ubuntu:~$ echo $TOOLS
+Git GitHub Docker Postman Figma Canva Vercel Apache Prettier
+
+liz@ubuntu:~$ ./contact.sh
+linkedin : linkedin.com/in/liz-zaragosa-293b5b338
+email    : l.zaragosa.555459@umindanao.edu.ph
+
+liz@ubuntu:~$ git streak --current
+```
+
+<p align="center">
+<img height="150" src="https://streak-stats.demolab.com/?user=lizzycodes-dev&hide_border=false&background=300a24&border=e95420&ring=e95420&fire=8ae234&currStreakNum=8ae234&currStreakLabel=e95420&sideNums=ffffff&sideLabels=ffffff&dates=aea79f" alt="GitHub streak" />
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/liz-zaragosa-293b5b338"><img src="https://img.shields.io/badge/LinkedIn-connect-e95420?style=flat-square&logo=linkedin&logoColor=white&labelColor=300a24" alt="LinkedIn" /></a>
+<a href="mailto:l.zaragosa.555459@umindanao.edu.ph"><img src="https://img.shields.io/badge/Email-send-e95420?style=flat-square&logo=gmail&logoColor=white&labelColor=300a24" alt="Email" /></a>
+</p>
