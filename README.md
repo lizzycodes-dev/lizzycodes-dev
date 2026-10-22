@@ -1,20 +1,84 @@
-# 💫 About Me:
+<!-- HEADER BANNER -->
+<div align="center">
 
-3rd Year IT student
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Liz%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=3rd%20Year%20IT%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
-## 🌐 Socials:
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/lizzycodes-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&lines=Turning+ideas+into+working+software;Full-stack+%7C+Web+%7C+Databases;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/liz-zaragosa-293b5b338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:l.zaragosa.555459@umindanao.edu.ph)
+<br/>
 
-# 💻 Tech Stack:
+<img src="https://komarev.com/ghpvc/?username=lizzycodes-dev&label=Profile+views&color=2c5364&style=for-the-badge" alt="profile views" />
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<br/><br/>
 
-# 📊 GitHub Stats:
+<!-- SOCIALS -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liz-zaragosa-293b5b338)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.zaragosa.555459@umindanao.edu.ph)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lizzycodes-dev)
 
-![](https://github-readme-stats.shion.dev/api?username=lizzycodes-dev&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=lizzycodes-dev&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lizzycodes-dev&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ABOUT -->
+<div align="center">
+
+## ✨ About Me
+
+</div>
+
+<div align="center">
+
+🎓 &nbsp;**3rd Year IT Student** &nbsp;·&nbsp; 💻 &nbsp;**Full-stack learner** &nbsp;·&nbsp; 🎨 &nbsp;**Design-minded developer**
+
+*I love building things that are useful, clean, and a little bit beautiful.*
+
+</div>
+
+<br/>
+
+<!-- TECH STACK -->
+<div align="center">
+
+## 🧰 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cs,java,php,js,py,mysql,laravel,nodejs,react,tailwind&perline=10" alt="languages and frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,apache&perline=10" alt="tools" />
+
+<br/><br/>
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+
+</div>
+
+<br/>
+
+<!-- STATS -->
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=lizzycodes-dev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0f2027&title_color=2dd4bf&icon_color=2dd4bf" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lizzycodes-dev&theme=tokyonight&hide_border=true&layout=compact&bg_color=0f2027&title_color=2dd4bf" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=lizzycodes-dev&theme=tokyonight&hide_border=true&background=0f2027&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
