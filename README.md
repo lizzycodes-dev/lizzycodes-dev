@@ -34,8 +34,7 @@ public class Liz {
 <img height="160" src="https://streak-stats.demolab.com/?user=lizzycodes-dev&hide_border=false&background=0d1117&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" />
 </p>
 
-
 <p align="center">
-<a href="https://www.linkedin.com/in/liz-zaragosa-293b5b338"><img src="https://img.shields.io/badge/LinkedIn-connect-ffffff?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-<a href="mailto:l.zaragosa.555459@umindanao.edu.ph"><img src="https://img.shields.io/badge/Email-send-ffffff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/liz-zaragosa-293b5b338"><img src="https://img.shields.io/badge/LinkedIn-connect-ffffff?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="mailto:l.zaragosa.555459@umindanao.edu.ph"><img src="https://img.shields.io/badge/Email-send-ffffff?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=0d1117" alt="Email" /></a>
 </p>
